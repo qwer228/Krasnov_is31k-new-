@@ -1,0 +1,4 @@
+2026-04-01 ERROR Something failed
+2026-04-02 INFO All good
+2026-04-03 ERROR Crash
+2026-04-03 ERROR Network
